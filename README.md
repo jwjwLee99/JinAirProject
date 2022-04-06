@@ -1,5 +1,12 @@
 # ** JinAirProject **
 
+## Used Tool
+* Intellij
+* Visual Code
+* sql developer
+* Tomcat
+* Git Desktop
+
 ## 1. 01월 24일 ~ 01월 28일
 * 클론 코딩 프로젝트 웹 사이트 알아보기
 * 기획서 작성
