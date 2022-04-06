@@ -40,3 +40,8 @@
 * 버그 리포트 작성 및 픽스
 * [2조_버그리포트.xlsx](https://github.com/jwjwLee99/JinAirProject/files/8414677/2._.xlsx)
 * 발표 준비
+
+## 6. 03월 30일
+* [최종발표본.pptx](https://github.com/jwjwLee99/JinAirProject/files/8424405/default.pptx)
+* 시연 영상
+ * https://www.youtube.com/watch?v=-PyivCZr36A
