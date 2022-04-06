@@ -7,6 +7,14 @@
 * Tomcat
 * Git Desktop
 
+## Used API
+* 날씨 API
+  https://openweathermap.org/
+* 카카오페이 API
+  https://developers.kakao.com/docs/latest/ko/kakaopay/common
+* 다음 우편번호 API
+  https://postcode.map.daum.net/guide
+
 ## 1. 01월 24일 ~ 01월 28일
 * 클론 코딩 프로젝트 웹 사이트 알아보기
 * 기획서 작성
