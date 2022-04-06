@@ -8,7 +8,7 @@
 
 ## 2. 01월 29일 ~ 01월 31일
 * 진에어 DB 테이블 초반 플로우 작성 (GitMind 사용)
-* ![1번째DB플로우](https://user-images.githubusercontent.com/77048470/161666955-5ff1b304-80b6-4535-b54c-e755922fc5ff.jpeg)
+  ![1번째DB플로우](https://user-images.githubusercontent.com/77048470/161666955-5ff1b304-80b6-4535-b54c-e755922fc5ff.jpeg)
 * github 환경 생성 (퍼블리싱)
 
 ## 3. 01월 31일 ~ 03월 04일
