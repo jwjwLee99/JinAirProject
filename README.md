@@ -24,7 +24,7 @@
   * 레이어 작업
 * 퍼블리싱 작업에서 나온 버그 픽스
 * DB 테이블 상세 수정 및 테이블 정의서 작성
-  * ![DB](https://user-images.githubusercontent.com/77048470/161667843-0ffbd404-3cc9-419f-8fd2-4bd34a010e25.jpeg)
+  ![DB](https://user-images.githubusercontent.com/77048470/161667843-0ffbd404-3cc9-419f-8fd2-4bd34a010e25.jpeg)
   * [2조_DB_테이블정의서.xls](https://github.com/jwjwLee99/JinAirProject/files/8414415/2._DB_.xls)
   * 테이블 정의서(사용자, 관리자, 유실물, 포인트, 예약)
 
