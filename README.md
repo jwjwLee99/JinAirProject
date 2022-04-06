@@ -44,4 +44,4 @@
 ## 6. 03월 30일
 * [최종발표본.pptx](https://github.com/jwjwLee99/JinAirProject/files/8424405/default.pptx)
 * 시연 영상
- * https://www.youtube.com/watch?v=-PyivCZr36A
+  * https://www.youtube.com/watch?v=-PyivCZr36A
